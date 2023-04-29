@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Trey</h1>
+<h1 align="center">Hi, I'm Trey, BSc Computer Science</h1>
 <h3 align="center">Junior DevOps Engineer</h3>
 
  I am a Junior DevOps engineer, having learnt many tools through a recently completed Udemy course, I am looking to
